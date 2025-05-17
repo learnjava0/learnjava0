@@ -43,9 +43,9 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dineshkumar) *(Add your link)*
-- 📧 Email: your.email@example.com *(Add your email)*
-- 🌐 Portfolio: *(Add if you have one)*
+- [LinkedIn](https://www.linkedin.com/in/dineshk17?) 
+- 📧 Email: kdinesh72453@gmail.com 
+- 🌐 Portfolio: https://learnjava0.github.io/Portfolio/
 
 ---
 
