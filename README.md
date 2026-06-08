@@ -11,7 +11,7 @@
 
 <!-- Social Badges -->
 <p>
-<a href="https://learnjava0.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-667EEA?style=for-the-badge&labelColor=000000&logoColor=white"/></a>
+<a href="https://dineshk017.netlify.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-667EEA?style=for-the-badge&labelColor=000000&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dineshk17?"><img src="https://img.shields.io/badge/💼_LINKEDIN-Let's_Connect-0077B5?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kdinesh72453@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-Drop_a_Line-EA4335?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/learnjava0"><img src="https://img.shields.io/badge/⚡_GITHUB-Follow-181717?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
@@ -598,7 +598,7 @@ Excellent collaboration skills with clear communication and a passion for knowle
 <a href="https://www.linkedin.com/in/dineshk17?">
   <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="40"/>
 </a>
-<a href="https://learnjava0.github.io/Portfolio/">
+<a href="https://dineshk017.netlify.app/">
   <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="40"/>
 </a>
 
