@@ -23,7 +23,7 @@
 
 <!-- Quick Stats Banner -->
 <img src="https://img.shields.io/badge/🎯_Focus-Backend_Development-00D9FF?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/📍_Location-Noida,_India-00D9FF?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/📍_Location-Ahmedabad,_India-00D9FF?style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/💼_Status-Work_At_KIL-00FF00?style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/⚡_Response-Within_24hrs-00D9FF?style=flat-square&labelColor=000000"/>
 
