@@ -580,7 +580,7 @@ Excellent collaboration skills with clear communication and a passion for knowle
 <td align="center" width="33%">
 
 ### 🌐 **Portfolio**
-[Visit My Portfolio](https://learnjava0.github.io/Portfolio/)
+[Visit My Portfolio](https://dineshk017.netlify.app/)
 
 **See my work in action**
 
