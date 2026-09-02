@@ -13,7 +13,7 @@
 **Backend Developer & Full Stack Engineer**
 
 <img src="https://img.shields.io/badge/Ahmedabad,_India-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Available_for_hire-34A853?style=flat-square&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Worked_at_KIL_Group-34A853?style=flat-square&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/IST_UTC+5:30-FBBC05?style=flat-square&logo=clockify&logoColor=white"/>
 
 <br/><br/>
